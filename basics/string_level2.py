@@ -6,7 +6,7 @@ print(a[0:3])
 print(a[-3:])
 #Reverse a String
 print(a[::-1])
-b=input("Enter the string: ")
+b=input("Enter the string: ")#taking input from user
 print(b[0:2])
 print(b[-2:])
 print(b[::-1])

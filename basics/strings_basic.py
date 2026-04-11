@@ -1,3 +1,4 @@
+# Sting basic functions
 a=input("Enter a string: ")
 #To find the length of string
 print(len(a))
