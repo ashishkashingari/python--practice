@@ -6,7 +6,7 @@ print(l)
 
 # #input 5 numbers in list from user.
 l1=[]
-for i in range(6):
+for i in range(5):
  num=int(input("Enter the five values:  "))
  l1.append(num)
 print(l1)
