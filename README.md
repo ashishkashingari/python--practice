@@ -5,3 +5,4 @@ This repository contains my Python learning journey.
 -Loops
 -Functions
 -List
+-dictionaries
