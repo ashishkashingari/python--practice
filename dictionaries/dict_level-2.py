@@ -7,7 +7,7 @@ for key in student: #loop start
      student[key]
 print(student[key])#print studentkeys
 
-# #Count frequency 
+#Count frequency 
 dict_freq={}#empty dict
 s=input("Enter the string: ")#taking input from user
 for char in s:#loop
