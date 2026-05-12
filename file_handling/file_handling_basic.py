@@ -1,6 +1,6 @@
 #create file and write
 file=open("hello.txt","w")
-file.write("hello eveyone. I'm learning the python")
+file.write("hello eveyone. I'm learning python")
 file.close()
 
 #read the  file
